@@ -32,3 +32,13 @@ for (let i = 0; i < svgs.length; i++) {
 }
 
 document.querySelector("query .bold").style.color = "#7C9EA6";
+
+// sixth section 
+document.querySelector(".conent_list li:first-of-type").textContent = 
+"This is the new list item text";
+document.querySelctorALL(".content_list li")[2].innerHTML += "<strong>Prof. Barnnet</strong>";
+
+// seventh section
+document.querySelector("#remove a")
+
+
